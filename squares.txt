@@ -1,0 +1,5 @@
+# WARDOGS BINGO — master list
+# One square per line. Add as many as you want; each card draws 24 at random.
+# Lines starting with # are ignored. Keep each square under ~60 characters.
+# Edit this file on GitHub and commit. Everyone gets the new list on their next card.
+
